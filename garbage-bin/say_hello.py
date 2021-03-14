@@ -2,4 +2,4 @@
 print("Hello World!")
 print("What's your name?")
 myName = input()
-print("Good to meet you, " + myName + "!")
+print("Nice to meet you, " + myName + "!")
