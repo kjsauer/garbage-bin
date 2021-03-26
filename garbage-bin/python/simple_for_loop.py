@@ -4,4 +4,4 @@ for ii in range(3):
 for ii in range(3):
     print("It\'s totally set to ", ii, "!")
 for ii in range(3):
-    print("No really it\'s totally set to " + str(ii), "!!!")
+    print("No really, it\'s totally set to " + str(ii), "!!!")
