@@ -1,4 +1,4 @@
-# This program says hello & asks for your name.
+# Say hello & ask for your name
 print("Hello World!")
 print("What's your name?")
 myName = input()
