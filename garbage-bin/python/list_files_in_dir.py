@@ -1,4 +1,4 @@
-# List files in current working directory cwd.
+# List files in current working directory cwd
 import os
 cwd = os.getcwd()
 os.chdir(cwd)
